@@ -83,3 +83,6 @@ To enhance aviation safety and mitigate risks, we recommend the following action
 
 By following these recommendations, organizations can make informed decisions on aircraft purchases that balance profitability and safety. Our analysis of aviation accident data from 1962 to 2023 highlights 
 critical trends and insights that require immediate attention, revealing significant patterns related to accident rates across various aircraft models.
+
+
+Check out my visualization on [Insights into Aviation Safety Trends in Injuries and Errors](https://public.tableau.com/app/profile/enid.kibet/viz/DSPROJECT1TABLEAU/INSIGHTSINTOAVIATIONSAFETYTRENDSINJURIESANDERRORS?publish=yes).
